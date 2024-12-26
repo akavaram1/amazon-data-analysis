@@ -11,6 +11,7 @@ Ensure you have the following Python packages installed:
    
 Questions and Visualizations:
 
+EXPLORATORY DATA ANALYSIS
 1. What is the distribution of sales across different regions?
 Visualization: Bar chart or pie chart showing the total revenue per region.
 Goal: Identify regions contributing the most to revenue.
@@ -43,8 +44,7 @@ Goal: Understand correlations between these variables.
 Visualization: Bar chart showing average shipping delay (Ship Date - Order Date) by Region.
 Goal: Highlight regions with potential shipping inefficiencies.
 
-Advanced Analysis
-
+ADVANCED ANALYSIS
 9. Seasonality of Sales
 Question: Are there specific months or seasons with higher sales?
 Visualization: Line chart showing monthly Total Revenue trends.
